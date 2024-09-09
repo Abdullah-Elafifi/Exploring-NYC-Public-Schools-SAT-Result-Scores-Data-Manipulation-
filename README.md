@@ -1,8 +1,8 @@
+# 🏫 Exploring NYC Public Schools SAT Result Scores (Data Manipulation) 
+
 <div style="text-align: center;">
   <img src="https://www.zillowstatic.com/bedrock/app/uploads/sites/26/shutterstock_262043447-dedc70.jpg" width="600" height="466">
 </div>
-
-# 🏫 Exploring NYC Public Schools SAT Result Scores (Data Manipulation) 
 
 In this project, I used standardized test performance (SAT) data from NYC's public schools to identify the schools with top math results, look at how performance varies by borough, and find the city's top ten performing schools. Using data manipulation and summary statistics to analyze test scores across New York City's public schools!
 
